@@ -5,3 +5,5 @@ Neural network Architecture (pretrained model by keras):  https://www.kaggle.com
 Special thanks to mostafaabla for save so many hours of my life visit him in Kaggle
 ## Some results:
 ![plastico](https://github.com/JaocHatter/M.U.G.R.E.-VISION/assets/112034917/8b36765a-cef8-404c-ace9-e67c411727c5)
+![white_glass](https://github.com/JaocHatter/M.U.G.R.E.-VISION/assets/112034917/2d2b943b-d64a-439f-a46d-f2ba1be2fba9)
+![chancleta](https://github.com/JaocHatter/M.U.G.R.E.-VISION/assets/112034917/052ca138-380c-4aae-9044-3f75c7557ad6)
